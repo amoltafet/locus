@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/locus/static/css/main.040834e3.chunk.css",
+    "main.js": "/locus/static/js/main.47871f16.chunk.js",
+    "main.js.map": "/locus/static/js/main.47871f16.chunk.js.map",
+    "runtime-main.js": "/locus/static/js/runtime-main.4783fba9.js",
+    "runtime-main.js.map": "/locus/static/js/runtime-main.4783fba9.js.map",
+    "static/css/2.440eac4c.chunk.css": "/locus/static/css/2.440eac4c.chunk.css",
+    "static/js/2.4486980c.chunk.js": "/locus/static/js/2.4486980c.chunk.js",
+    "static/js/2.4486980c.chunk.js.map": "/locus/static/js/2.4486980c.chunk.js.map",
+    "static/js/3.66d92d5f.chunk.js": "/locus/static/js/3.66d92d5f.chunk.js",
+    "static/js/3.66d92d5f.chunk.js.map": "/locus/static/js/3.66d92d5f.chunk.js.map",
+    "index.html": "/locus/index.html",
+    "static/css/2.440eac4c.chunk.css.map": "/locus/static/css/2.440eac4c.chunk.css.map",
+    "static/css/main.040834e3.chunk.css.map": "/locus/static/css/main.040834e3.chunk.css.map",
+    "static/js/2.4486980c.chunk.js.LICENSE.txt": "/locus/static/js/2.4486980c.chunk.js.LICENSE.txt",
+    "static/media/logo01.f0f3765f.svg": "/locus/static/media/logo01.f0f3765f.svg",
+    "static/media/logo02.ef3dc476.svg": "/locus/static/media/logo02.ef3dc476.svg",
+    "static/media/logo03.ed39a486.svg": "/locus/static/media/logo03.ed39a486.svg",
+    "static/media/logo04.d4601325.svg": "/locus/static/media/logo04.d4601325.svg",
+    "static/media/logo05.e583f97d.svg": "/locus/static/media/logo05.e583f97d.svg",
+    "static/media/logo06.7fcfefca.svg": "/locus/static/media/logo06.7fcfefca.svg",
+    "static/media/slick-theme.css": "/locus/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4783fba9.js",
+    "static/css/2.440eac4c.chunk.css",
+    "static/js/2.4486980c.chunk.js",
+    "static/css/main.040834e3.chunk.css",
+    "static/js/main.47871f16.chunk.js"
+  ]
+}
